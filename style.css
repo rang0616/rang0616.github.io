@@ -7,6 +7,9 @@ body {
     height: 100vh;
     background-color: #0076BA;
     font-family: 'Arial', sans-serif;
+    max-width: 210mm;
+    max-height: 297mm;
+    margin: auto;
 }
 .container {
     position: relative;
